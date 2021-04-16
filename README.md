@@ -1,2 +1,2 @@
 # MergeConflict-bgreis
-Merge Conflict 1
+Merge Conflict 2 (main)
