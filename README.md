@@ -1,3 +1,2 @@
 # MergeConflict-bgreis
-
-offline Version
+Merge Conflict 1
