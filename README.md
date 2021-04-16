@@ -1,3 +1,3 @@
 # MergeConflict-bgreis
 
-Merge Conflict 2 
+Merge Conflict 3 (second)
